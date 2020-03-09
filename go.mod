@@ -11,6 +11,7 @@ require (
 	github.com/Azure/go-autorest/autorest/to v0.3.0
 	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
+	github.com/Masterminds/vcs v1.13.1 // indirect
 	github.com/aws/aws-lambda-go v1.13.3
 	github.com/aws/aws-sdk-go v1.27.1
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
@@ -21,20 +22,27 @@ require (
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8 // indirect
 	github.com/go-errors/errors v1.0.2-0.20180813162953-d98b870cc4e0 // indirect
 	github.com/go-sql-driver/mysql v1.4.1
+	github.com/golang/dep v0.5.4 // indirect
+	github.com/golang/protobuf v1.3.4 // indirect
 	github.com/google/go-cmp v0.4.0 // indirect
 	github.com/google/go-containerregistry v0.0.0-20200110202235-f4fb41bf00a3
 	github.com/google/uuid v1.1.1
 	github.com/googleapis/gnostic v0.3.1 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/gruntwork-io/gruntwork-cli v0.5.1
+	github.com/hashicorp/terraform v0.12.21
 	github.com/imdario/mergo v0.3.7 // indirect
+	github.com/jmank88/nuts v0.4.0 // indirect
 	github.com/jstemmer/go-junit-report v0.9.1
 	github.com/magiconair/properties v1.8.1
 	github.com/mattn/go-zglob v0.0.2-0.20190814121620-e3c945676326 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
+	github.com/nightlyone/lockfile v0.0.0-20200124072040-edb130adc195 // indirect
 	github.com/oracle/oci-go-sdk v7.1.0+incompatible
-	github.com/pkg/errors v0.9.0 // indirect
+	github.com/pelletier/go-toml v1.6.0 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pquerna/otp v1.2.0
+	github.com/sdboyer/constext v0.0.0-20170321163424-836a14457353 // indirect
 	github.com/shopspring/decimal v0.0.0-20200105231215-408a2507e114 // indirect
 	github.com/sirupsen/logrus v1.4.2
 	github.com/stretchr/testify v1.4.0
@@ -42,10 +50,11 @@ require (
 	golang.org/x/crypto v0.0.0-20200109152110-61a87790db17
 	golang.org/x/net v0.0.0-20191209160850-c0dbc17a3553
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sys v0.0.0-20200107162124-548cf772de50 // indirect
+	golang.org/x/sys v0.0.0-20200302150141-5c8b2ff67527 // indirect
 	golang.org/x/tools v0.0.0-20200113040837-eac381796e91 // indirect
 	google.golang.org/api v0.15.0
 	google.golang.org/genproto v0.0.0-20200108215221-bd8f9a0ef82f
+	gopkg.in/yaml.v2 v2.2.8 // indirect
 	k8s.io/api v0.17.0
 	k8s.io/apimachinery v0.17.0
 	k8s.io/client-go v0.17.0
